@@ -1,20 +1,13 @@
 ---
-title: A post page
-date: 2018-03-21
+title: The Libet Experiment
+date: 2022-03-24
 ---
+### Summary
+Benjamin Libet experimented in the 1980s to investigate whether hand movements happened after the conscious decision to move one's hand.
 
-There's not much here in the sample post page. Better get to work.
+He used an EEG machine to measure brain activity and found that brain activity occured hundreds of millisecconds before the conscious decision to move the hand.
 
-The common front-matter data for all of the files in the posts section are abstracted into a `posts.json` file so that we don't need to repeat that on every file. Handy.
+In other words movement started before the individual will could decide to do so.
 
-It looks like this:
-
-```js
-{
-  "layout" : "layouts/post.md",
-  "tags" : "post",
-  "templateEngineOverride": "njk,md"
-}
-```
-
-
+### Conclusion
+Some take this as evidence that free will is an illusion.
