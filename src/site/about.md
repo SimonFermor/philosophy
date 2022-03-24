@@ -1,7 +1,7 @@
 ---
-title: Get Yours
+title: I think, therefore I blog
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: Let whoever can do so deceive me, he will never bring it about that I am nothing, so long as I continue to think I am something
 ---
 
 ## Hosting

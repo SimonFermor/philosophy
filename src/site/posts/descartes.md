@@ -1,6 +1,7 @@
 ---
 title: Another post page
-date: 2018-03-28
+createdate: 2022-03-25
+last-edit-date: 2022-03-25
 ---
 
 Another simple page.

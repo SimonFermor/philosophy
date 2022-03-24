@@ -5,13 +5,14 @@ templateEngineOverride: njk, md
 ---
 
 <p class="date">
-  Posted as an example, on <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
+  Created: <time datetime="{{ last_edited_date }}">{{ last_edit_date | dateDisplay }}</time>
+  Last edit: <time datetime="{{ create_date }}">{{ create_date | dateDisplay }}</time>
 </p>
 <main>
   {{ content | safe }}
   <div class="footnote">
     <p>
-      This page is part of the posts section.
+      Footer...
     </p>
   </div>
 </main>
