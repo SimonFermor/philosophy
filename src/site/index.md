@@ -4,12 +4,9 @@ subtitle: Beginners notes on philosophy
 layout: layouts/base.njk
 ---
 
-## Posts
-
-The pages found in in the posts
-
+## Recent Posts
 <ul class="listing">
-{%- for page in collections.post -%}
+{%- for page in collections.post | reverse -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
