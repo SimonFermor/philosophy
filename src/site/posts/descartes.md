@@ -1,7 +1,7 @@
 ---
-title: Another post page
-createdate: 2022-03-25
-last-edit-date: 2022-03-25
+title: Descartes
+create_date: 2022-03-25
+last_edit_date: 2022-03-25
 ---
 
 Another simple page.
