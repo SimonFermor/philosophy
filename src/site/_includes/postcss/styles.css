@@ -23,10 +23,11 @@ body {
   text-align: center;
   background-color: $page-color;
   color: mix($text-color, $page-color, 90%);
-  font-family: sans-serif;
+  font-family: garamond;
   font-weight: 300;
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 1.2;
+  letter-spacing: 0em;
   min-height: 100vh;
   background:  $page-color;
   background: url(/images/bg-grid.png), linear-gradient(320deg, $page-color 0%, $accent-color 100%);
@@ -48,7 +49,6 @@ body {
     width: 700px;
   };
 }
-
 
 h1, h2, h3 {
   color: $text-color;
@@ -144,7 +144,6 @@ a:focus {
   }
 }
 
-
 code {
   font-size: 0.8em;
   background-color: mix($text-color,$accent-color, 80%);
@@ -177,7 +176,6 @@ pre {
     padding-right: 0;
   }
 }
-
 
 footer {
   margin-top: 6em;
