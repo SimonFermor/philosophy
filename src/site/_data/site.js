@@ -1,4 +1,4 @@
 module.exports = {
-  "rootUrl" : "https://site-root-url.com",
+  "rootUrl" : "https://timely-blancmange-740e9c.netlify.app/",
   "buildTime" : new Date()
 }
