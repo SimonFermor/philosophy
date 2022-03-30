@@ -1,5 +1,5 @@
 ---
-title: Philosophy Notes
+title: Tags
 subtitle: Brief notes on philosophy and philosophers
 layout: layouts/base.njk
 ---
