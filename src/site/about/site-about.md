@@ -15,3 +15,7 @@ As noted on the template home page, the following are provided:
 - JS [search index](/search.json) generator
 - [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
 - Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
+
+Other useful sites:
+
+- https://github.com/jeromecoupe/iad_eleventy_introduction/blob/master/eleventy_introduction_en.md

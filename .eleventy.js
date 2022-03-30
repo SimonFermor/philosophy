@@ -30,9 +30,13 @@ module.exports = function(config) {
       return minified.code;
   });
 
+  eleventyConfig.addCollection("philosophers", function (collection) {
+    return collection.getFilteredByGlob("./src/content/philosophers/*.md");
+  });
 
   // Pass some assets right through
   config.addPassthroughCopy("./src/site/images");
+  config.addPassthroughCopy("./src/assets/");
 
   // Make the seed target act like prod
   env = (env=="seed") ? "prod" : env;
