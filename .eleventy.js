@@ -30,7 +30,7 @@ module.exports = function(config) {
       return minified.code;
   });
 
-  eleventyConfig.addCollection("philosophers", function (collection) {
+  config.addCollection("philosophers", function (collection) {
     return collection.getFilteredByGlob("./src/content/philosophers/*.md");
   });
 

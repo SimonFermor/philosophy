@@ -5,9 +5,9 @@ layout: layouts/base.njk
 ---
 ## Random Quote
 
-## Recent Posts
+## Recent Posts!
 <ul class="listing">
-{%- for page in collections.post | reverse -%}
+{%- for page in collections.all | reverse -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
