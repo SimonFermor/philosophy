@@ -42,7 +42,7 @@ module.exports = function(config) {
   env = (env=="seed") ? "prod" : env;
   return {
     dir: {
-      input: "src/site",
+      input: "src",
       output: "dist",
       data: `_data/${env}`
     },
