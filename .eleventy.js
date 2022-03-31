@@ -34,6 +34,10 @@ module.exports = function(config) {
     return collection.getFilteredByGlob("./src/content/philosophers/*.md");
   });
 
+  config.addCollection("concepts", function (collection) {
+    return collection.getFilteredByGlob("./src/content/concepts/*.md");
+  });
+
   // Pass some assets right through
   // config.addPassthroughCopy("./src/assets/images");
   config.addPassthroughCopy("./src/assets/");
