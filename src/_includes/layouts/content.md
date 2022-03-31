@@ -1,11 +1,11 @@
 ---
 layout: layouts/base.njk
-pageClass: posts
+pageClass: content
 templateEngineOverride: njk, md
 ---
 
 <p class="date">
-  Created: <time datetime="{{ last_edited_date }}">{{ last_edit_date | dateDisplay }}</time>
+  Created: <time datetime="{{ last_edit_date }}">{{ last_edit_date | dateDisplay }}</time>
   Last edit: <time datetime="{{ create_date }}">{{ create_date | dateDisplay }}</time>
 </p>
 <main>

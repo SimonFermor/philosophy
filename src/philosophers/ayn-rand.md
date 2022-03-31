@@ -1,6 +1,8 @@
 ---
-title: Descartes
+title: Ayn Rand
 description: ""
+layout: default
 create_date: 2022-03-29
 last_edit_date: 2022-03-29
 ---
+Ayn Rand was ...

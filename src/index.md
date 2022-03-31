@@ -7,7 +7,7 @@ layout: layouts/base.njk
 
 ## Philosophers
 <ul class="listing">
-{%- for page in collections.philosophers | reverse -%}
+{%- for page in collections.philosophers | sort(false, false, 'data.title')  -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
@@ -17,7 +17,7 @@ layout: layouts/base.njk
 
 ## Concepts
 <ul class="listing">
-{%- for page in collections.concepts -%}
+{%- for page in collections.concepts | sort(false, false, 'data.title') -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>

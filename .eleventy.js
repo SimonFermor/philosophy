@@ -31,11 +31,13 @@ module.exports = function(config) {
   });
 
   config.addCollection("philosophers", function (collection) {
-    return collection.getFilteredByGlob("./src/content/philosophers/*.md");
+    return collection.getFilteredByGlob("./src/philosophers/*.md").sort(function(a, b) {
+      return a.data.title > b.data.title;
+    });
   });
 
   config.addCollection("concepts", function (collection) {
-    return collection.getFilteredByGlob("./src/content/concepts/*.md");
+    return collection.getFilteredByGlob("./src/concepts/*.md");
   });
 
   // Pass some assets right through
