@@ -15,7 +15,7 @@ layout: layouts/base.njk
 {%- endfor -%}
 </ul>
 
-## Concepts
+## Topics
 <ul class="listing">
 {%- for page in collections.concepts | sort(false, false, 'data.title') -%}
   <li>

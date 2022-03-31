@@ -30,6 +30,7 @@ module.exports = function(config) {
       return minified.code;
   });
 
+  // Sorting collection does not seem to work
   config.addCollection("philosophers", function (collection) {
     return collection.getFilteredByGlob("./src/philosophers/*.md").sort(function(a, b) {
       return a.data.title > b.data.title;
@@ -37,11 +38,10 @@ module.exports = function(config) {
   });
 
   config.addCollection("concepts", function (collection) {
-    return collection.getFilteredByGlob("./src/concepts/*.md");
+    return collection.getFilteredByGlob("./src/topics/*.md");
   });
 
   // Pass some assets right through
-  // config.addPassthroughCopy("./src/assets/images");
   config.addPassthroughCopy("./src/assets/");
 
   // Make the seed target act like prod
