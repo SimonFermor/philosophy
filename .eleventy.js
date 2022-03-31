@@ -37,7 +37,7 @@ module.exports = function(config) {
     });
   });
 
-  config.addCollection("concepts", function (collection) {
+  config.addCollection("topics", function (collection) {
     return collection.getFilteredByGlob("./src/topics/*.md");
   });
 
