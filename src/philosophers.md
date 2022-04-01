@@ -5,10 +5,9 @@ layout: layouts/base.njk
 ---
 ## Philosophers
 <ul class="listing">
-{%- for page in collections.philosophers | sort(false, false, 'data.title')  -%}
+{%- for page in collections.philosophers | sort(false, false, 'data.name')  -%}
   <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
+    <a href="{{ page.url }}">{{ page.data.name }}</a>
   </li>
 {%- endfor -%}
 </ul>

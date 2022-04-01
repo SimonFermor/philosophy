@@ -1,5 +1,5 @@
 ---
-name: Descartes
+name: John Hospers
 dob: 
 dod: 
 description: ""
@@ -9,4 +9,8 @@ last_edit_date: 2022-04-01
 wikipedia: 
 youtube: 
 search: 
+tags:
+    - compatibilism
+    - soft-determinism
+    - freedom
 ---

@@ -1,0 +1,1 @@
+Aristotle defined a voluntary action as one that is not done under compulsion and not done from ignorance.

@@ -1,5 +1,5 @@
 ---
-name: Baron Paul Henri
+name: Patricia Churchland
 description: ""
 layout: default
 create_date: 2022-03-29
@@ -8,6 +8,4 @@ wikipedia:
 youtube: 
 search: 
 tags:
-
 ---
-Testin
