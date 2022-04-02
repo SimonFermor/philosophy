@@ -1,5 +1,5 @@
 const axios  = require('axios');
-const seed   = require('../utils/save-seed.js');
+const seed   = require('./save-seed.js');
 
 var url = `https://www.hawksworx.com/feed.json`;
 
