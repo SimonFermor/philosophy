@@ -8,6 +8,12 @@ youtube:
 search: utilitarianism
 tags:
     - utilitarianism
+questions:
+    - who first proposed utilitarianism
+    - what is the value theory
+    - what is the right action theory
+    - what is act utilitarianism
+    - what is rule utilitarianism
 ---
 ### What Is Utilitarianism?
 Utilitarians are ethical theorists who consider that any good moral rule should give the greatest happiness to the greatest number of people.
@@ -24,6 +30,8 @@ Viewed as an hedonistic moral theory.  However, it is not egoistic pleasure seek
 
 ### Origins
 Jeremy Bentham in 1789: An introduction to the principles of morals and legislation.
+
+Jeremy defined his principle of utility: one should act to produce the greatest good for the greatest number of people.
 
 ### Value Theory
 Only thing that matters is happniness and the absense of suffering.  Money is only of value as a way to get happiness.

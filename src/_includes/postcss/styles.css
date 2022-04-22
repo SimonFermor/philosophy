@@ -30,7 +30,7 @@ body {
   letter-spacing: 0em;
   min-height: 100vh;
   background:  $page-color;
-  background: url(/assets/images/bg-grid.png), linear-gradient(320deg, $page-color 0%, $accent-color 100%);
+  background: url(/assets/images/bg-grid.png), linear-gradient(320deg, $page-color 100%, $accent-color 0%);
 
   @media (min-width: $narrow) {
     font-size: 18px;
