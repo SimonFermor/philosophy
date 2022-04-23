@@ -1,0 +1,1 @@
+quotes on what philosophy is - see textbook

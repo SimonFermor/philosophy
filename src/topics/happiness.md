@@ -8,8 +8,13 @@ youtube:
 search: 
 tags:
 ---
-Aristotle's view of the good life:
+### Aristotle
+Arisotle's view of the good life..
 
-Jeremy Bentham's view: 
+### Jeremy Bentham
+Jeremy Bentham defined happiness as ..
 
-Mills modification: 
+Jeremy Bentham suggested happiness could be measured..
+
+### Mills
+Mills modified Bentham's definition to...

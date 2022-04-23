@@ -19,3 +19,5 @@ As noted on the template home page, the following are provided:
 Other useful sites:
 
 - https://github.com/jeromecoupe/iad_eleventy_introduction/blob/master/eleventy_introduction_en.md
+- https://wordpress.org/openverse/
+- https://creativecommons.org/use-remix/

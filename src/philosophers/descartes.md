@@ -29,3 +29,12 @@ librivox: https://librivox.org/author/4158
     <img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.openverse.engineering/static/img/cc-nd_icon.svg" />
     </a>
  </p>
+
+## Four basic rules:
+
+1. Don't take anything as true unless it can be proven to be so
+2. Break any problem down into small parts which can be resolved
+3. Build truth from simple known truths
+4. Cover all aspects to avoid any hidden assumptions
+
+Method of doubt

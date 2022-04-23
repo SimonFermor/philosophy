@@ -21,7 +21,6 @@ search:
 - need based justice - get more based on need
 - merit based justice 
 
-
 ### Greek Origins
 - harmony - a society in which everyone fulfills their roles to keep society running smoothly
 - scales of justice
