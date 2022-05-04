@@ -7,5 +7,5 @@ wikipedia:
 youtube: 
 search: 
 tags:
-quotes on what philosophy is - see textbook
 ---
+quotes on what philosophy is - see textbook
