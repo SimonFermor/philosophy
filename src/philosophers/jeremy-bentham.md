@@ -1,4 +1,5 @@
 ---
+name: Jeremy Bentham
 title: Jeremy Bentham
 description: ""
 create_date: 2022-04-15
@@ -8,7 +9,6 @@ youtube:
 search: 
 tags:
     - utilitarianism
-    - 
 ---
 
 Jeremy Bentham was an early activist in many areas:

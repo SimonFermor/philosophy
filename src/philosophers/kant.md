@@ -1,4 +1,5 @@
 ---
+name: Kant
 title: Kant
 description: ""
 create_date: 2022-04-11

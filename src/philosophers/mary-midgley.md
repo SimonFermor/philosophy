@@ -1,4 +1,5 @@
 ---
+name: Mary Midgley
 title: Mary Midgley
 description: ""
 create_date: 2022-04-11
