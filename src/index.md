@@ -7,7 +7,7 @@ layout: layouts/base.njk
 
 ## Philosophers - recently updated
 <ul class="listing">
-{%- for page in collections.philosophers | sort(false, true, 'data.last_edit_date')  -%}
+{%- for page in collections.philosophers | sort(false, true, 'page.data.last_edit_date')  -%}
   {%- if loop.index < 10 -%}
     <li>
       <a href="{{ page.url }}">{{ page.data.name }}</a> -
@@ -19,11 +19,11 @@ layout: layouts/base.njk
 
 ## Topics - recently updated
 <ul class="listing">
-{%- for page in collections.concepts | sort(false, true, 'data.last_edit_date') -%}
+{%- for page in collections.topics | sort(false, true, 'page.data.last_edit_date') -%}
   {%- if loop.index < 10 -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.name }}</a> -
-    <time datetime="{{ page.date }}">{{ page.data.last_edit_date | dateDisplay("LLLL d, y") }}</time>
+    <time datetime="{{ page.data.last_edit_date }}">{{ page.data.last_edit_date | dateDisplay("LLLL d, y") }}</time>
   </li>
   {%- endif -%}
 {%- endfor -%}
