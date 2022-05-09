@@ -8,5 +8,6 @@ wikipedia:
 youtube: 
 search: 
 tags:
+status: draft
 ---
 Sigmund Freud had ideas about the unconscious mind and this presented a challenge to the philosophical view of the mind being incorrigible.

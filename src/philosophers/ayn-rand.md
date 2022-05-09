@@ -10,6 +10,7 @@ tags:
 wikipedia: 
 youtube: 
 search: 
+status: draft
 ---
 Ayn Rand was ...
 

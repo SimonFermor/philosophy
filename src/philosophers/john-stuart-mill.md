@@ -10,6 +10,7 @@ wikipedia: John_Stuart_Mill
 youtube: 
 search: 
 tags:
+status: draft
 ---
 John Stuart Mill was a defender of compatibilism, the view that human freedom and determinism are compatible.
 

@@ -8,6 +8,7 @@ wikipedia:
 youtube: 
 search: 
 tags:
+status: draft
 ---
 
 ### Thought Experiment

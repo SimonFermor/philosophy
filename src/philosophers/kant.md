@@ -10,6 +10,7 @@ search: kant
 tags:
     - ethics
     - morality
+status: draft
 ---
 
 

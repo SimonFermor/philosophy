@@ -13,6 +13,7 @@ tags:
     - morality
     - ethics
     - neitzsche
+status: draft
 ---
 
 

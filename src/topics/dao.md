@@ -8,6 +8,7 @@ tags:
 wikipedia: 
 youtube: 
 search: 
+status: draft
 ---
 Chinese concept of Dao oriented towards change, movement and process
 

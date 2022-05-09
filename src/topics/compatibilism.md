@@ -8,6 +8,7 @@ youtube:
 search: 
 tags: 
     - compatibilism
+status: draft
 ---
 Compatiblists believe that the world is deterministic and also that there is free will.  Compatibilists believe that decision making by the individual has an affect on the future.
 

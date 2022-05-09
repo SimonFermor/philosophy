@@ -7,5 +7,6 @@ wikipedia:
 youtube: 
 search: 
 tags:
+status: draft
 ---
 quotes on what philosophy is - see textbook

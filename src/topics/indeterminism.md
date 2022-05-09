@@ -8,6 +8,7 @@ youtube:
 search: indeterminism
 tags:
     - indeterminism
+status: draft
 ---
 ### What Is Indeterminism?
 

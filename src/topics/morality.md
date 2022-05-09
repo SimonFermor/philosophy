@@ -10,6 +10,7 @@ tags:
     - morality
     - aristotle
     - kant
+status: draft
 ---
 ### What Is Morality?
 Morality is the set of rules that govern our actions.

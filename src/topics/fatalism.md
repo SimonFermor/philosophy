@@ -7,6 +7,7 @@ wikipedia:
 youtube: 
 search: 
 tags:
+status: draft
 ---
 ### What Is Fatalism?
 Fatalism is the belief that our fate is pre-determined and that whatever we think or decide has no influence on this pre-ordained fate.

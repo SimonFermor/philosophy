@@ -9,6 +9,7 @@ youtube:
 search: 
 tags:
     - utilitarianism
+status: draft
 ---
 
 Jeremy Bentham was an early activist in many areas:

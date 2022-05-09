@@ -6,6 +6,7 @@ last_edit_date: 2022-03-29
 wikipedia: 
 youtube: 
 search: 
+status: ready
 ---
 ### What Is Determinism?
 The thesis of determinism is that the laws of nature fully determine everything that happens.  Every state and event is determined by prior states and events.

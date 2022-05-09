@@ -7,6 +7,7 @@ last_edit_date: 2022-03-25
 wikipedia: 
 youtube: 
 search: 
+status: draft
 ---
 ### Does The Conscious Mind Decide?
 Benjamin Libet experimented in the 1980s to investigate whether hand movements happened after the conscious decision to move one's hand.

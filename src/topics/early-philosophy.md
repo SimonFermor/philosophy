@@ -6,6 +6,7 @@ last_edit_date: 2022-03-29
 wikipedia: 
 youtube: 
 search: 
+status: ready
 ---
 Philosohpy - from Greek philein, sophia is the love of wisdom
 

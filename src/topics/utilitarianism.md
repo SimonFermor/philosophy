@@ -14,6 +14,7 @@ questions:
     - what is the right action theory
     - what is act utilitarianism
     - what is rule utilitarianism
+status: draft
 ---
 ### What Is Utilitarianism?
 Utilitarians are ethical theorists who consider that any good moral rule should give the greatest happiness to the greatest number of people.
