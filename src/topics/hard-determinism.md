@@ -7,7 +7,7 @@ wikipedia:
 youtube: 
 search: 
 tags:
-status: draft
+status: ready
 ---
 ### What Is Hard Determinism?
 Hard determinism is the idea that we are nothing more than physical bodies entirely determined by the laws of nature.  We are "matter in motion".
@@ -15,3 +15,4 @@ Hard determinism is the idea that we are nothing more than physical bodies entir
 Pierre Simon LaPlace claimed that the location and motion of every object in the universe can be predicted if we know the current location and motion of every object.
 
 ### Is Hard Determinism Compatible With Freedom?
+With hard determinism there can be no free will.
