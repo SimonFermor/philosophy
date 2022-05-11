@@ -6,7 +6,7 @@ last_edit_date: 2022-03-31
 wikipedia: "Compatibilism"
 youtube: 
 search: 
-standford: https://plato.stanford.edu/entries/compatibilism/
+standford: compatibilism
 tags: 
     - compatibilism
 status: ready
