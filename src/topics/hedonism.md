@@ -7,6 +7,7 @@ wikipedia:
 youtube: 
 search: 
 tags:
+status: draft
 ---
 Hedonism was the basis of utilitarianism: in the good life the ultimate good is pleasure and we ought to want pleasure.  In utilitarianism it is pleasure in general, not just personal pleasure that is important.
 

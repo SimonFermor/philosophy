@@ -8,6 +8,7 @@ wikipedia:
 youtube: 
 search: 
 tags:
+status: draft
 ---
 Socrates: seeking of wisdom is the essence of philosphy
 

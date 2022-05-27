@@ -11,6 +11,7 @@ tags:
     - aristotle
     - socrates
     - kant
+status: draft
 ---
 ### What Is Ethics?
 Ethics is the study of what we should or should not do.  Socrates stuck to his ethical viewpoint during his trial, which lead to his sentence and death.

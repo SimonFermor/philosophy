@@ -8,4 +8,6 @@ youtube:
 search: morality
 tags:
     - moral-relativity
+status: draft
 ---
+to do...

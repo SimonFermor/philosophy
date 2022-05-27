@@ -10,4 +10,6 @@ search:
 tags:
     - compatibilism
     - determism
+status: draft
 ---
+to do...

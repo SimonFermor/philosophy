@@ -7,6 +7,7 @@ wikipedia:
 youtube: 
 search: 
 tags:
+status: draft
 ---
 Hofstadter, D. R. (1982). Can creativity be mechanized? Scientific American, 247, 20-29.
 

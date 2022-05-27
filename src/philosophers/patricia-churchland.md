@@ -8,4 +8,6 @@ wikipedia:
 youtube: 
 search: 
 tags:
+status: draft
 ---
+Churchland used incorrigibility as part of the definition of mind and as an argument against materialism.

@@ -7,6 +7,7 @@ wikipedia:
 youtube: 
 search: 
 tags:
+status: draft
 ---
 ### Aristotle
 Arisotle's view of the good life..

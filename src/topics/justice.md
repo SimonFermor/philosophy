@@ -8,6 +8,7 @@ tags:
 wikipedia: 
 youtube: 
 search: 
+status: ready
 ---
 ### Areas of Justice
 - economic

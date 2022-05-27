@@ -15,11 +15,12 @@ questions:
 quotes: 
     - 
 librivox: https://librivox.org/author/4158
+status: draft
 ---
 
 <p style="font-size: 0.9rem;font-style: italic;">
-    <img style="display: block;" src="https://live.staticflickr.com/2674/5832576407_9289ee95d3_b.jpg" alt="René Descartes">
-    <a href="https://www.flickr.com/photos/37925259@N00/5832576407" target="_blank" rel="noopener noreferrer">"René Descartes"</a>
+    <img style="display: block;" src="https://live.staticflickr.com/2674/5832576407_9289ee95d3_b.jpg" alt="Renï¿½ Descartes">
+    <a href="https://www.flickr.com/photos/37925259@N00/5832576407" target="_blank" rel="noopener noreferrer">"Renï¿½ Descartes"</a>
     <span> by <a href="https://www.flickr.com/photos/37925259@N00" target="_blank" rel="noopener noreferrer">pittigliani2005</a></span>
     is licensed under <a href="https://creativecommons.org/licenses/by-nd-nc/2.0/jp/&atype=html" style="margin-right: 5px;" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 2.0</a>
     <a href="https://creativecommons.org/licenses/by-nd-nc/2.0/jp/&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;">

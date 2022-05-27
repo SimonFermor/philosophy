@@ -9,4 +9,6 @@ search: egoism
 tags:
     - egoism
     - morality
+status: draft
 ---
+to do...
