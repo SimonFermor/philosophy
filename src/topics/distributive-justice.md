@@ -15,11 +15,11 @@ Distributive justice is concerned with how property, wealth and resources are di
 
 To be just can be interepreted in a number of ways:
 
+- based on need
 - egalitarian
 - fair
 - merit-based
 - providing greatest happiness (utilitarian)
-- based on need
 
 ### John Rawls' View
 Rawls view was that a just society needs to be based on the rights of the individual.  Rawls also considered that justice should be fair, favor the least well-off and correct natural imbalances.
